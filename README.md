@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently study on STT Terpadu Nurul Fikri
 - 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about java , python, & kotlin
-- 📫 How to reach me: Instagram - fiki_alamsyah21 
+- 📫 How to reach me:[Instagram - fiki_alamsyah21](https://www.instagram.com/fiki_alamsyah21/?hl=en)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love coffe
 
