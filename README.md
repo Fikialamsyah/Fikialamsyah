@@ -10,6 +10,8 @@
 </a>
 
 <br/> 
+
+### Glad to see you here! 🤩 &nbsp;
 - 🔭 I’m currently study on STT Terpadu Nurul Fikri
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about java , python, & kotlin
