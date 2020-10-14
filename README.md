@@ -1,9 +1,18 @@
 ### Holla, I'm Fiki Alamsyah 👋
+<a href="https://www.instagram.com/fiki_alamsyah21/?hl=en">
+  <img align="left" alt="Fiki Alamsyah's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/fiki-alamsyah-8a58821a6/">
+  <img align="left" alt="Fiki Alamsyah's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/fikialamsyah">
+  <img align="left" alt="Fiki Alamsyah's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
+<br/> 
 - 🔭 I’m currently study on STT Terpadu Nurul Fikri
 - 🌱 I’m currently learning Kotlin
 - 💬 Ask me about java , python, & kotlin
-- 📫 How to reach me:[Instagram - fiki_alamsyah21](https://www.instagram.com/fiki_alamsyah21/?hl=en)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love coffe
 
