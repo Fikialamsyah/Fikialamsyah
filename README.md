@@ -13,9 +13,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 - 🔭 I’m currently study on STT Terpadu Nurul Fikri
-- 🌱 I’m currently learning Kotlin
-- 💬 Ask me about java , python, & kotlin
-- 😄 Pronouns: He/His
+- 🌱 I’m currently learning mobile programming and machine learning
 - ⚡ Fun fact: I love coffe
 
 **Languages and Tools:** &nbsp;
